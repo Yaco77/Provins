@@ -1,0 +1,29 @@
+
+
+.marge_un { 
+  height: 1000px;
+  background: black;
+  position: fixed; 
+  margin-right: 80%; 
+  
+}
+
+.marge_deux { 
+  
+  position: fixed; 
+  margin-left: 80%; 
+}
+
+
+
+div p {
+	font-size: 4em;
+	text-align: center;
+}
+
+h1 {
+	margin-left: 20%;	/* 20 car 100 - 80 = 20 */
+	margin-right: 80%;
+	font-size: 2em;
+}
+
